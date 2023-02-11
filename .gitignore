@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#pycharm files -- added manually
+/.idea/
+
+#no need main in task
+main.py
