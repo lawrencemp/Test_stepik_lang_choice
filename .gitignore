@@ -133,3 +133,6 @@ dmypy.json
 
 #no need main in task
 main.py
+
+#requirements.txt
+requirements.txt
